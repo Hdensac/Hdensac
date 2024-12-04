@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Hdensac
-- I'm student in second years of informatique and telecommunication
+- I'm student in third years of informatique and telecommunication at INSTI lokossa 
 - 👀 I’m interested in what we can do with a computer
 - 🌱 I’m currently learning programmation
 - 💞️ I’m looking to collaborate on some project such as web developpment,api creating, ect
 - 📫 How to reach me (hdensac@gmail.com)
-- 😄 Pronouns: 
+- 😄 Pronouns: I've participed to Gaiathon'24
 - ⚡ Fun fact: ...
 - 
 <!---
